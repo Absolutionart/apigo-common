@@ -1,0 +1,8 @@
+com\apigo\apigocommon\model\entity\User.class
+com\apigo\apigocommon\service\InnerInterfaceInfoService.class
+com\apigo\apigocommon\model\entity\InterfaceInfo.class
+com\apigo\apigocommon\service\InnerUserInterfaceInfoService.class
+com\apigo\apigocommon\model\entity\UserInterfaceInfo.class
+com\apigo\apigocommon\model\enums\InterfaceInfoStatusEnum.class
+com\apigo\apigocommon\service\InnerUserService.class
+com\apigo\apigocommon\model\vo\UserVO.class
